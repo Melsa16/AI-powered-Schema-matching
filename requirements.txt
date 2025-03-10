@@ -1,0 +1,8 @@
+pandas
+sklearn
+joblib
+matplotlib
+seaborn
+mysql
+Flask
+os
